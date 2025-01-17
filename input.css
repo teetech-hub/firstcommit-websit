@@ -1,0 +1,29 @@
+
+.first,
+.surname{
+  display: inline-block;
+  margin-top: 20px;
+  width: 200px;
+}
+.email{
+  display: block;
+  margin-top: 20px;
+  width: 415px;
+  height: 40px;
+  font-size: 20px;
+}
+.signup{
+  text-align: center;
+  width: 424px;
+  margin-top: 20px;
+  background-color: rgb(68, 68, 255);
+  color: white;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+}
+.signup:hover{
+  cursor: pointer;
+  color: aqua;
+}
